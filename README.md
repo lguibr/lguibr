@@ -364,10 +364,10 @@
       <p align="center">
         <strong>Modern Physics Explorer.</strong>
         <br />
-        High-performance 3D visualization using Rust/WASM and WebGPU for graph physics simulation.
+        High-performance 3D visualization using a pure TypeScript architecture with Web Workers for graph physics simulation.
       </p>
       <p align="center">
-        <code>Rust</code> <code>WASM</code> <code>WebGPU</code>
+        <code>TypeScript</code> <code>Web Workers</code> <code>Visualization</code>
       </p>
     </td>
   </tr>
