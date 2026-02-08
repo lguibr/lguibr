@@ -3,7 +3,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/commitai">
-          <img src="https://raw.githubusercontent.com/lguibr/commitai/main/bitmap.png" height="100" style="max-width: 200px; padding: 10px;" alt="CommitAI Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/commitai/main/bitmap.png" height="80" style="max-width: 160px; padding: 10px;" alt="CommitAI Logo" />
         </a>
       </div>
       <div align="center">
@@ -26,7 +26,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/codeconcat">
-          <img src="https://raw.githubusercontent.com/lguibr/codeconcat/main/bitmap.png" height="100" style="max-width: 200px; padding: 10px;" alt="CodeConcat Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/codeconcat/main/bitmap.png" height="80" style="max-width: 160px; padding: 10px;" alt="CodeConcat Logo" />
         </a>
       </div>
       <div align="center">
@@ -51,7 +51,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/luisguilher.me">
-          <img src="https://raw.githubusercontent.com/lguibr/luisguilher.me/main/public/favicon.png" height="100" style="max-width: 200px; padding: 10px;" alt="Portfolio Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/luisguilher.me/main/public/favicon.png" height="80" style="max-width: 160px; padding: 10px;" alt="Portfolio Logo" />
         </a>
       </div>
       <div align="center">
@@ -74,7 +74,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/pongo">
-          <img src="https://raw.githubusercontent.com/lguibr/pongo/main/bitmap.png" height="100" style="max-width: 200px; padding: 10px;" alt="Pongo Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/pongo/main/bitmap.png" height="80" style="max-width: 160px; padding: 10px;" alt="Pongo Logo" />
         </a>
       </div>
       <div align="center">
@@ -96,7 +96,7 @@
       <p align="center"><b>Family of Dependencies</b></p>
       <div align="center">
         <a href="https://github.com/lguibr/pongo-client">
-           <img src="https://raw.githubusercontent.com/lguibr/pongo/main/bitmap.png" height="50" style="max-width: 100px; padding: 5px;" alt="Pongo Client Logo" />
+           <img src="https://raw.githubusercontent.com/lguibr/pongo/main/bitmap.png" height="40" style="max-width: 80px; padding: 5px;" alt="Pongo Client Logo" />
         </a>
         <br/>
         <a href="https://github.com/lguibr/pongo-client">
@@ -112,7 +112,7 @@
       <br />
       <div align="center">
         <a href="https://github.com/lguibr/bollywood">
-           <img src="https://raw.githubusercontent.com/lguibr/bollywood/main/bitmap.png" height="50" style="max-width: 100px; padding: 5px;" alt="Bollywood Logo" />
+           <img src="https://raw.githubusercontent.com/lguibr/bollywood/main/bitmap.png" height="40" style="max-width: 80px; padding: 5px;" alt="Bollywood Logo" />
         </a>
         <br/>
         <a href="https://github.com/lguibr/bollywood">
@@ -131,7 +131,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/mimeflow">
-           <img src="https://raw.githubusercontent.com/lguibr/mimeflow/main/bitmap.png" height="100" style="max-width: 200px; padding: 10px;" alt="MimeFlow Logo" />
+           <img src="https://raw.githubusercontent.com/lguibr/mimeflow/main/bitmap.png" height="80" style="max-width: 160px; padding: 10px;" alt="MimeFlow Logo" />
         </a>
       </div>
       <div align="center">
@@ -154,7 +154,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/alphatriangle">
-          <img src="https://raw.githubusercontent.com/lguibr/alphatriangle/main/bitmap.png" height="100" style="max-width: 200px; padding: 10px;" alt="AlphaTriangle Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/alphatriangle/main/bitmap.png" height="80" style="max-width: 160px; padding: 10px;" alt="AlphaTriangle Logo" />
         </a>
       </div>
       <div align="center">
@@ -177,7 +177,7 @@
       <p align="center"><b>Family of Dependencies</b></p>
       <div align="center">
         <a href="https://github.com/lguibr/trianglengin">
-           <img src="https://raw.githubusercontent.com/lguibr/trianglengin/main/bitmap.png" height="50" style="max-width: 100px; padding: 5px;" alt="Trianglengin Logo" />
+           <img src="https://raw.githubusercontent.com/lguibr/trianglengin/main/bitmap.png" height="40" style="max-width: 80px; padding: 5px;" alt="Trianglengin Logo" />
         </a>
         <br/>
         <a href="https://github.com/lguibr/trianglengin">
@@ -196,7 +196,7 @@
       <br />
       <div align="center">
         <a href="https://github.com/lguibr/trimcts">
-           <img src="https://raw.githubusercontent.com/lguibr/trimcts/main/bitmap.png" height="50" style="max-width: 100px; padding: 5px;" alt="TriMCTS Logo" />
+           <img src="https://raw.githubusercontent.com/lguibr/trimcts/main/bitmap.png" height="40" style="max-width: 80px; padding: 5px;" alt="TriMCTS Logo" />
         </a>
         <br/>
         <a href="https://github.com/lguibr/trimcts">
@@ -215,7 +215,7 @@
       <br />
       <div align="center">
         <a href="https://github.com/lguibr/trieye">
-           <img src="https://raw.githubusercontent.com/lguibr/trieye/main/bitmap.png" height="50" style="max-width: 100px; padding: 5px;" alt="Trieye Logo" />
+           <img src="https://raw.githubusercontent.com/lguibr/trieye/main/bitmap.png" height="40" style="max-width: 80px; padding: 5px;" alt="Trieye Logo" />
         </a>
         <br/>
         <a href="https://github.com/lguibr/trieye">
@@ -237,7 +237,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/tonai">
-          <img src="https://raw.githubusercontent.com/lguibr/tonai/main/public/logo.png" height="100" style="max-width: 200px; padding: 10px;" alt="Tonai Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/tonai/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="Tonai Logo" />
         </a>
       </div>
       <div align="center">
@@ -260,7 +260,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/fin">
-          <img src="https://raw.githubusercontent.com/lguibr/fin/main/public/logo.png" height="100" style="max-width: 200px; padding: 10px;" alt="Fin Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/fin/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="Fin Logo" />
         </a>
       </div>
       <div align="center">
@@ -282,7 +282,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/timing">
-          <img src="https://raw.githubusercontent.com/lguibr/timing/main/logo.png" height="100" style="max-width: 200px; padding: 10px;" alt="Timing Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/timing/main/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="Timing Logo" />
         </a>
       </div>
       <div align="center">
@@ -305,7 +305,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/tricrack">
-          <img src="https://raw.githubusercontent.com/lguibr/tricrack/main/bitmap.png" height="100" style="max-width: 200px; padding: 10px;" alt="Tricrack Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/tricrack/main/bitmap.png" height="80" style="max-width: 160px; padding: 10px;" alt="Tricrack Logo" />
         </a>
       </div>
       <div align="center">
@@ -330,7 +330,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/cocov">
-          <img src="https://raw.githubusercontent.com/lguibr/cocov/main/assets/logo.png" height="100" style="max-width: 200px; padding: 10px;" alt="Cocov Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/cocov/main/assets/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="Cocov Logo" />
         </a>
       </div>
       <div align="center">
@@ -353,7 +353,7 @@
     <td width="50%">
       <div align="center">
         <a href="https://github.com/lguibr/wolfram-physics-explorer">
-          <img src="https://raw.githubusercontent.com/lguibr/wolfram-physics-explorer/main/public/logo.png" height="100" style="max-width: 200px; padding: 10px;" alt="Wolfram Logo" />
+          <img src="https://raw.githubusercontent.com/lguibr/wolfram-physics-explorer/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="Wolfram Logo" />
         </a>
       </div>
       <div align="center">
