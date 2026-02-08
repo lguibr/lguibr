@@ -98,16 +98,16 @@
     </td>
   </tr>
 
+  
   <tr style="border-top: none;">
-    <td colspan="2" style="padding-left: 40px; padding-top: 10px; padding-bottom: 10px;">
-      <div style="display: flex; align-items: center;">
-        <div style="flex: 0 0 60px; margin-right: 15px;"> <!-- Smaller logo container -->
+    <td width="20%" align="right" valign="middle" style="padding-right: 20px; border-right: 1px solid #eee;">
+      <!-- Smaller logo container -->
            <a href="https://github.com/lguibr/pongo-client">
 <img src="https://raw.githubusercontent.com/lguibr/pongo/main/bitmap.png" height="40" style="max-width: 80px; padding: 5px;" alt="Pongo Client Logo" />
 </a>
-        </div>
-        <div style="flex: 1;">
-           <a href="https://github.com/lguibr/pongo-client">
+    </td>
+    <td width="80%" align="left" valign="top">
+      <a href="https://github.com/lguibr/pongo-client">
           <img src="https://img.shields.io/github/stars/lguibr/pongo-client?style=social" alt="Stars" />
         </a>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
@@ -115,21 +115,20 @@
         <a href="https://github.com/lguibr/pongo-client"><b>Pongo Client</b></a>
         <br/>
         Type-safe client SDK for interacting with the Pongo Engine.
-        <code>WebSocket</code> <code>Canvas</code> <code>React</code></div>
-      </div>
+        <code>WebSocket</code> <code>Canvas</code> <code>React</code>
     </td>
   </tr>
 
+  
   <tr style="border-top: none;">
-    <td colspan="2" style="padding-left: 40px; padding-top: 10px; padding-bottom: 10px;">
-      <div style="display: flex; align-items: center;">
-        <div style="flex: 0 0 60px; margin-right: 15px;"> <!-- Smaller logo container -->
+    <td width="20%" align="right" valign="middle" style="padding-right: 20px; border-right: 1px solid #eee;">
+      <!-- Smaller logo container -->
            <a href="https://github.com/lguibr/bollywood">
 <img src="https://raw.githubusercontent.com/lguibr/bollywood/main/bitmap.png" height="40" style="max-width: 80px; padding: 5px;" alt="Bollywood Logo" />
 </a>
-        </div>
-        <div style="flex: 1;">
-           <a href="https://github.com/lguibr/bollywood">
+    </td>
+    <td width="80%" align="left" valign="top">
+      <a href="https://github.com/lguibr/bollywood">
           <img src="https://img.shields.io/github/stars/lguibr/bollywood?style=social" alt="Stars" />
         </a>
         <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
@@ -137,8 +136,7 @@
         <a href="https://github.com/lguibr/bollywood"><b>Bollywood</b></a>
         <br/>
         Nostic ECS (Entity Component System) for Go.
-        <code>Actor</code> <code>ECS</code> <code>Channels</code></div>
-      </div>
+        <code>Actor</code> <code>ECS</code> <code>Channels</code>
     </td>
   </tr>
 
@@ -192,16 +190,16 @@
     </td>
   </tr>
 
+  
   <tr style="border-top: none;">
-    <td colspan="2" style="padding-left: 40px; padding-top: 10px; padding-bottom: 10px;">
-      <div style="display: flex; align-items: center;">
-        <div style="flex: 0 0 60px; margin-right: 15px;"> <!-- Smaller logo container -->
+    <td width="20%" align="right" valign="middle" style="padding-right: 20px; border-right: 1px solid #eee;">
+      <!-- Smaller logo container -->
            <a href="https://github.com/lguibr/trianglengin">
 <img src="https://raw.githubusercontent.com/lguibr/trianglengin/main/bitmap.png" height="40" style="max-width: 80px; padding: 5px;" alt="Trianglengin Logo" />
 </a>
-        </div>
-        <div style="flex: 1;">
-           <a href="https://github.com/lguibr/trianglengin">
+    </td>
+    <td width="80%" align="left" valign="top">
+      <a href="https://github.com/lguibr/trianglengin">
           <img src="https://img.shields.io/github/stars/lguibr/trianglengin?style=social" alt="Stars" />
         </a>
         <a href="https://pypi.org/project/trianglengin/">
@@ -212,21 +210,20 @@
         <a href="https://github.com/lguibr/trianglengin"><b>trianglengin</b></a>
         <br/>
         High-performance C++ core for game logic with Python bindings.
-        <code>Game Engine</code> <code>High Performance</code> <code>Lang Bindings</code></div>
-      </div>
+        <code>Game Engine</code> <code>High Performance</code> <code>Lang Bindings</code>
     </td>
   </tr>
 
+  
   <tr style="border-top: none;">
-    <td colspan="2" style="padding-left: 40px; padding-top: 10px; padding-bottom: 10px;">
-      <div style="display: flex; align-items: center;">
-        <div style="flex: 0 0 60px; margin-right: 15px;"> <!-- Smaller logo container -->
+    <td width="20%" align="right" valign="middle" style="padding-right: 20px; border-right: 1px solid #eee;">
+      <!-- Smaller logo container -->
            <a href="https://github.com/lguibr/trimcts">
 <img src="https://raw.githubusercontent.com/lguibr/trimcts/main/bitmap.png" height="40" style="max-width: 80px; padding: 5px;" alt="TriMCTS Logo" />
 </a>
-        </div>
-        <div style="flex: 1;">
-           <a href="https://github.com/lguibr/trimcts">
+    </td>
+    <td width="80%" align="left" valign="top">
+      <a href="https://github.com/lguibr/trimcts">
           <img src="https://img.shields.io/github/stars/lguibr/trimcts?style=social" alt="Stars" />
         </a>
         <a href="https://pypi.org/project/trimcts/">
@@ -237,21 +234,20 @@
         <a href="https://github.com/lguibr/trimcts"><b>trimcts</b></a>
         <br/>
         Optimized Monte Carlo Tree Search library supporting AlphaZero/MuZero.
-        <code>MCTS</code> <code>Optimized Memory</code> <code>High Frequency</code></div>
-      </div>
+        <code>MCTS</code> <code>Optimized Memory</code> <code>High Frequency</code>
     </td>
   </tr>
 
+  
   <tr style="border-top: none;">
-    <td colspan="2" style="padding-left: 40px; padding-top: 10px; padding-bottom: 10px;">
-      <div style="display: flex; align-items: center;">
-        <div style="flex: 0 0 60px; margin-right: 15px;"> <!-- Smaller logo container -->
+    <td width="20%" align="right" valign="middle" style="padding-right: 20px; border-right: 1px solid #eee;">
+      <!-- Smaller logo container -->
            <a href="https://github.com/lguibr/trieye">
 <img src="https://raw.githubusercontent.com/lguibr/trieye/main/bitmap.png" height="40" style="max-width: 80px; padding: 5px;" alt="Trieye Logo" />
 </a>
-        </div>
-        <div style="flex: 1;">
-           <a href="https://github.com/lguibr/trieye">
+    </td>
+    <td width="80%" align="left" valign="top">
+      <a href="https://github.com/lguibr/trieye">
           <img src="https://img.shields.io/github/stars/lguibr/trieye?style=social" alt="Stars" />
         </a>
         <a href="https://pypi.org/project/trieye/">
@@ -262,8 +258,7 @@
         <a href="https://github.com/lguibr/trieye"><b>trieye</b></a>
         <br/>
         Asynchronous statistics, logging, and data persistence for ML experiments.
-        <code>Ray</code> <code>MLOps</code> <code>Observability</code></div>
-      </div>
+        <code>Ray</code> <code>MLOps</code> <code>Observability</code>
     </td>
   </tr>
 
