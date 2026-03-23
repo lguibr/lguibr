@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&width=435&lines=Initializing%20Maireadme%20Protocol...;Scanning%2022%20Repositories%20for%20Knowledge%20Items...;Establishing%20Neural%20Uplink%20(Gemini%201.5%20Pro)...;Processing%20Context%20Window%3A%202%2C000%2C000%20Tokens...;Architectural%20Pattern%20Matching%3A%20ACTIVE;Synthesizing%20SOTA%20Documentation...;Welcome%20to%20my%20Digital%20Workspace." alt="Typing SVG" /></div><br/>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&width=435&lines=Initializing%20Maireadme%20Protocol...;Scanning%2027%20Repositories%20for%20Knowledge%20Items...;Establishing%20Neural%20Uplink%20(Gemini%201.5%20Pro)...;Processing%20Context%20Window%3A%202%2C000%2C000%20Tokens...;Architectural%20Pattern%20Matching%3A%20ACTIVE;Synthesizing%20SOTA%20Documentation...;Welcome%20to%20my%20Digital%20Workspace." alt="Typing SVG" /></div><br/>
 <table width="100%">
 <tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
@@ -32,21 +32,6 @@
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
-  <a href="https://github.com/lguibr/pongo">
-    <img src="https://raw.githubusercontent.com/lguibr/pongo/main/bitmap.png" height="80" style="max-width: 160px; padding: 10px;" alt="pongo Logo" />
-  </a>
-</td>
-<td width="80%" align="left" valign="top">
-  <a href="#"><img src="https://img.shields.io/badge/Coverage-49.9%25-yellow" alt="Coverage" /></a> <a href="https://github.com/lguibr/pongo"><img src="https://img.shields.io/github/stars/lguibr/pongo?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/pongo/actions"><img src="https://github.com/lguibr/pongo/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
-  <p align="center">
-    <strong>pongo</strong>
-    <br />
-    A real-time, 4-player hybrid of Pong and Breakout. Built with Go and WebSockets, powered by a custom Actor Model architecture (Bollywood) for high concurrency and scalable game state management.<br/><br/><strong>Integrates with:</strong> <a href="https://github.com/lguibr/asciiring">asciiring</a>, <a href="https://github.com/lguibr/bollywood">bollywood</a>
-  </p>
-  <p align="center"><code>actor-model</code> <code>breakout</code> <code>concurrency</code> <code>game-development</code> <code>go</code> <code>golang</code> <code>multiplayer</code> <code>online-game</code> <code>physics-engine</code> <code>pong</code> <code>real-time</code> <code>websockets</code></p>
-</td>
-</tr><tr style="border-bottom: none; ">
-<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
   <a href="https://github.com/lguibr/luisguilher.me">
     <img src="https://raw.githubusercontent.com/lguibr/tonai/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="luisguilher.me Logo" />
   </a>
@@ -59,6 +44,21 @@
     A portfolio built with systems thinking. Simulates an OS/IDE environment with a custom virtual file system, Monaco Editor integration, and stateful window layouts. Browsable, interactive, and built with Next.js.
   </p>
   <p align="center"><code>ide</code> <code>interactive-resume</code> <code>monaco-editor</code> <code>nextjs</code> <code>portifolio</code> <code>react</code> <code>system-design</code> <code>typescript</code> <code>virtual-file-system</code> <code>vscode-clone</code> <code>Next.js</code> <code>React</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/pongo">
+    <img src="https://raw.githubusercontent.com/lguibr/pongo/main/bitmap.png" height="80" style="max-width: 160px; padding: 10px;" alt="pongo Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="#"><img src="https://img.shields.io/badge/Coverage-49.9%25-yellow" alt="Coverage" /></a> <a href="https://github.com/lguibr/pongo"><img src="https://img.shields.io/github/stars/lguibr/pongo?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/pongo/actions"><img src="https://github.com/lguibr/pongo/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+  <p align="center">
+    <strong>pongo</strong>
+    <br />
+    A real-time, 4-player hybrid of Pong and Breakout. Built with Go and WebSockets, powered by a custom Actor Model architecture (Bollywood) for high concurrency and scalable game state management.<br/><br/><strong>Integrates with:</strong> <a href="https://github.com/lguibr/asciiring">asciiring</a>, <a href="https://github.com/lguibr/bollywood">bollywood</a>
+  </p>
+  <p align="center"><code>actor-model</code> <code>breakout</code> <code>concurrency</code> <code>game-development</code> <code>go</code> <code>golang</code> <code>multiplayer</code> <code>online-game</code> <code>physics-engine</code> <code>pong</code> <code>real-time</code> <code>websockets</code></p>
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
@@ -104,6 +104,21 @@
     A bootstrap to API with automated provisioning of cloud resources in Google Cloud Platform using Terraform CDK in Typescript.
   </p>
   <p align="center"></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/maireadme">
+    <img src="https://raw.githubusercontent.com/lguibr/maireadme/main/src/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="maireadme Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript&logoColor=white" alt="TypeScript" /></a> <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Tested%20with-Vitest-success?logo=vitest&logoColor=white" alt="Vitest" /></a> <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a> <a href="#"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a> <a href="https://github.com/lguibr/maireadme"><img src="https://img.shields.io/github/stars/lguibr/maireadme?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/maireadme/actions"><img src="https://github.com/lguibr/maireadme/actions/workflows/ci.yml/badge.svg" alt="CI" /></a> <a href="https://github.com/lguibr/maireadme"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/maireadme"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <p align="center">
+    <strong>maireadme</strong>
+    <br />
+    The Ultimate GitHub Profile README Generator. An intelligent CLI tool that analyzes your repositories, detects tech stacks, categorizes projects, and renders a high-fidelity Markdown dashboard with Shields.io badges.<br/><br/><strong>Integrates with:</strong> <a href="https://github.com/lguibr/cocov">cocov</a>
+  </p>
+  <p align="center"><code>automation</code> <code>cli</code> <code>developer-tools</code> <code>github-profile</code> <code>introspection</code> <code>personal-branding</code> <code>readme-generator</code> <code>shieldsio</code> <code>typescript</code></p>
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
@@ -167,18 +182,78 @@
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
-  <a href="https://github.com/lguibr/maireadme">
-    <img src="https://raw.githubusercontent.com/lguibr/maireadme/main/src/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="maireadme Logo" />
+  <a href="https://github.com/lguibr/daicer-ui">
+    <img src="https://raw.githubusercontent.com/lguibr/daicer-ui/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="daicer-ui Logo" />
   </a>
 </td>
 <td width="80%" align="left" valign="top">
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript&logoColor=white" alt="TypeScript" /></a> <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Tested%20with-Vitest-success?logo=vitest&logoColor=white" alt="Vitest" /></a> <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a> <a href="#"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a> <a href="https://github.com/lguibr/maireadme"><img src="https://img.shields.io/github/stars/lguibr/maireadme?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/maireadme/actions"><img src="https://github.com/lguibr/maireadme/actions/workflows/ci.yml/badge.svg" alt="CI" /></a> <a href="https://github.com/lguibr/maireadme"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/maireadme"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://github.com/lguibr/daice/actions/workflows/frontend.yml"><img src="https://img.shields.io/github/actions/workflow/status/lguibr/daice/frontend.yml?label=Frontend_Build&logo=github&style=for-the-badge" alt="Frontend CI" /></a> <a href="https://codecov.io/gh/lguibr/daice"><img src="https://codecov.io/gh/lguibr/daice/graph/badge.svg?token=CODECOV_TOKEN&flag=frontend" alt="codecov" /></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/Front-React_19-61DAFB?logo=react&style=for-the-badge&logoColor=black" alt="React" /></a> <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Render-Three.js-000000?logo=three.js&style=for-the-badge" alt="ThreeJS" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&style=for-the-badge" alt="Vite" /></a> <a href="https://github.com/lguibr/daicer-ui"><img src="https://img.shields.io/github/stars/lguibr/daicer-ui?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/daicer-ui"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/daicer-ui"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <p align="center">
-    <strong>maireadme</strong>
+    <strong>daicer-ui</strong>
     <br />
-    The Ultimate GitHub Profile README Generator. An intelligent CLI tool that analyzes your repositories, detects tech stacks, categorizes projects, and renders a high-fidelity Markdown dashboard with Shields.io badges.<br/><br/><strong>Integrates with:</strong> <a href="https://github.com/lguibr/cocov">cocov</a>
+    Daicer UI - The 3D cinematic client, state management, and real-time rendering.
   </p>
-  <p align="center"><code>automation</code> <code>cli</code> <code>developer-tools</code> <code>github-profile</code> <code>introspection</code> <code>personal-branding</code> <code>readme-generator</code> <code>shieldsio</code> <code>typescript</code></p>
+  <p align="center"><code>3d-rendering</code> <code>frontend</code> <code>game-client</code> <code>graphql</code> <code>react</code> <code>react-three-fiber</code> <code>rpg</code> <code>socket-io</code> <code>threejs</code> <code>typescript</code> <code>vite</code> <code>webgl</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/daicer">
+    <img src="https://raw.githubusercontent.com/lguibr/daicer/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="daicer Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://github.com/lguibr/daice/actions/workflows/backend.yml"><img src="https://img.shields.io/github/actions/workflow/status/lguibr/daice/backend.yml?label=Backend_Build&logo=github&style=for-the-badge" alt="Backend CI" /></a> <a href="https://codecov.io/gh/lguibr/daice"><img src="https://codecov.io/gh/lguibr/daice/graph/badge.svg?token=CODECOV_TOKEN&flag=backend" alt="codecov" /></a> <a href="https://strapi.io/"><img src="https://img.shields.io/badge/Back-Strapi_5-4945FF?logo=strapi&style=for-the-badge" alt="Strapi" /></a> <a href="#"><img src="https://img.shields.io/badge/Code-100%25_TS-3178C6?logo=typescript&style=for-the-badge" alt="TypeScript" /></a> <a href="https://github.com/lguibr/daicer"><img src="https://img.shields.io/github/stars/lguibr/daicer?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/daicer/actions"><img src="https://github.com/lguibr/daicer/actions/workflows/ci.yml/badge.svg" alt="CI" /></a> <a href="https://github.com/lguibr/daicer"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/daicer"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <p align="center">
+    <strong>daicer</strong>
+    <br />
+    Multiplayer tabletop RPG powered by an AI Dungeon Master. Daicer fuses deterministic dice mechanics, LangGraph orchestration, and a modern React client to deliver cooperative storytelling that stays faithful to D&D 5e.<br/><br/><strong>Integrates with:</strong> <a href="https://github.com/lguibr/cocov">cocov</a>
+  </p>
+  <p align="center"><code>ai-dungeon-master</code> <code>backend</code> <code>game-server</code> <code>generative-ai</code> <code>graphql</code> <code>langgraph</code> <code>llm</code> <code>rag</code> <code>rpg</code> <code>strapi</code> <code>tabletop-rpg</code> <code>typescript</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/tricked">
+    <img src="https://raw.githubusercontent.com/lguibr/tricked/main/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="tricked Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://github.com/lguibr/tricked"><img src="https://img.shields.io/github/stars/lguibr/tricked?style=social" alt="Stars" /></a>
+  <p align="center">
+    <strong>tricked</strong>
+    <br />
+    Tricked is a multi-language ecosystem optimized entirely to prevent standard abstraction delays. We translate raw bitwise board matrices from Python natively into a Rust (PyO3) Verification Engine, achieving zero-cost tensor bounds for ultra-concurrent MCTS expansions.
+  </p>
+  <p align="center"><code>ai</code> <code>cuda</code> <code>game-ai</code> <code>machine-learning</code> <code>mcts</code> <code>monte-carlo-tree-search</code> <code>muzero</code> <code>pyo3</code> <code>python</code> <code>pytorch</code> <code>reinforcement-learning</code> <code>rust</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/pixel-forge">
+    <img src="https://raw.githubusercontent.com/lguibr/pixel-forge/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="pixel-forge Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://github.com/lguibr/pixel-forge"><img src="https://img.shields.io/github/stars/lguibr/pixel-forge?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/pixel-forge"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <p align="center">
+    <strong>pixel-forge</strong>
+    <br />
+    A highly intelligent AI-driven sprite generation pipeline, bootstrapping entity manifestations for the Daicer Project (an AI Dungeon Master).
+  </p>
+  <p align="center"><code>ai</code> <code>game-assets</code> <code>gemini-api</code> <code>generative-ai</code> <code>generative-art</code> <code>pixel-art</code> <code>procedural-art</code> <code>react</code> <code>sprite-generator</code> <code>tailwindcss</code> <code>typescript</code> <code>vite</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/aether-maps">
+    <img src="https://raw.githubusercontent.com/lguibr/aether-maps/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="aether-maps Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://github.com/lguibr/AetherEngine"><img src="https://img.shields.io/badge/version-3.5.0-blue.svg?style=for-the-badge" alt="Version" /></a> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a> <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a> <a href="https://github.com/lguibr/aether-maps"><img src="https://img.shields.io/github/stars/lguibr/aether-maps?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/aether-maps"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <p align="center">
+    <strong>aether-maps</strong>
+    <br />
+    Aether Maps (formerly Daicer Map Engine) is a framework-agnostic procedural generation ecosystem meticulously engineered for RPGs, strategy games, and intense dungeon crawlers. Built with a sophisticated multi-layer voxel topology, deterministic structural generation, and a high-performance Canvas 2D rendering pipeline.
+  </p>
+  <p align="center"><code>canvas-api</code> <code>deterministic</code> <code>fog-of-war</code> <code>game-development</code> <code>pathfinder</code> <code>procedural-generation</code> <code>react</code> <code>rpg</code> <code>tailwindcss</code> <code>typescript</code> <code>vite</code> <code>voxel</code></p>
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
