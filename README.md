@@ -33,7 +33,7 @@
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
   <a href="https://github.com/lguibr/luisguilher.me">
-    <img src="https://raw.githubusercontent.com/lguibr/tonai/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="luisguilher.me Logo" />
+    <img src="https://raw.githubusercontent.com/lguibr/luisguilher.me/main/public/favicon.png" height="80" style="max-width: 160px; padding: 10px;" alt="luisguilher.me Logo" />
   </a>
 </td>
 <td width="80%" align="left" valign="top">
