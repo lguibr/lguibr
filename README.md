@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&width=435&lines=Initializing%20Maireadme%20Protocol...;Scanning%2027%20Repositories%20for%20Knowledge%20Items...;Establishing%20Neural%20Uplink%20(Gemini%201.5%20Pro)...;Processing%20Context%20Window%3A%202%2C000%2C000%20Tokens...;Architectural%20Pattern%20Matching%3A%20ACTIVE;Synthesizing%20SOTA%20Documentation...;Welcome%20to%20my%20Digital%20Workspace." alt="Typing SVG" /></div><br/>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&width=435&lines=Initializing%20Maireadme%20Protocol...;Scanning%2032%20Repositories%20for%20Knowledge%20Items...;Establishing%20Neural%20Uplink%20(Gemini%201.5%20Pro)...;Processing%20Context%20Window%3A%202%2C000%2C000%20Tokens...;Architectural%20Pattern%20Matching%3A%20ACTIVE;Synthesizing%20SOTA%20Documentation...;Welcome%20to%20my%20Digital%20Workspace." alt="Typing SVG" /></div><br/>
 <table width="100%">
 <tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
@@ -26,14 +26,29 @@
   <p align="center">
     <strong>Mimeflow</strong>
     <br />
-    A React-based pose estimation engine. Uses WebGL/WebGPU and 5D vector cosine similarity to calculate movement accuracy against video feeds entirely in the browser.
+    A React-based pose estimation engine. Uses WebGL/WebGPU to calculate movement accuracy against video feeds entirely in the browser.
   </p>
   <p align="center"><code>blazepose</code> <code>computer-vision</code> <code>fitness</code> <code>game-development</code> <code>gamification</code> <code>machine-learning</code> <code>mediapipe</code> <code>pose-estimation</code> <code>pwa</code> <code>react</code> <code>tensorflowjs</code> <code>vite</code></p>
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/CodeConcat">
+    <img src="https://raw.githubusercontent.com/lguibr/CodeConcat/main/bitmap.png" height="80" style="max-width: 160px; padding: 10px;" alt="CodeConcat Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://github.com/lguibr/codeconcat/actions/workflows/ci_cd.yml"><img src="https://github.com/lguibr/codeconcat/actions/workflows/ci_cd.yml/badge.svg" alt="CI/CD" /></a> <a href="https://pypi.org/project/codeconcat/"><img src="https://img.shields.io/pypi/v/codeconcat.svg" alt="PyPI" /></a> <a href="https://pypi.org/project/codeconcat/"><img src="https://img.shields.io/pypi/pyversions/codeconcat.svg" alt="Python Version" /></a> <a href="https://github.com/lguibr/codeconcat/blob/main/LICENSE"><img src="https://img.shields.io/pypi/l/codeconcat.svg" alt="License" /></a> <a href="https://github.com/astral-sh/ruff"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json" alt="Code style: ruff" /></a> <a href="https://github.com/lguibr/CodeConcat"><img src="https://img.shields.io/github/stars/lguibr/CodeConcat?style=social" alt="Stars" /></a>
+  <p align="center">
+    <strong>CodeConcat</strong>
+    <br />
+    Prepare your code for AI. Concatenates your project into a clean, markdown-formatted file with file trees and granular filtering options.
+  </p>
+  <p align="center"><code>automation</code> <code>cli</code> <code>concatenation</code> <code>context-window</code> <code>developer-tools</code> <code>llm</code> <code>productivity</code> <code>prompt-engineering</code> <code>python</code> <code>Python</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
   <a href="https://github.com/lguibr/luisguilher.me">
-    <img src="https://raw.githubusercontent.com/lguibr/luisguilher.me/main/public/favicon.png" height="80" style="max-width: 160px; padding: 10px;" alt="luisguilher.me Logo" />
+    <img src="https://raw.githubusercontent.com/lguibr/tonai/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="luisguilher.me Logo" />
   </a>
 </td>
 <td width="80%" align="left" valign="top">
@@ -62,18 +77,18 @@
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
-  <a href="https://github.com/lguibr/CodeConcat">
-    <img src="https://raw.githubusercontent.com/lguibr/CodeConcat/main/bitmap.png" height="80" style="max-width: 160px; padding: 10px;" alt="CodeConcat Logo" />
+  <a href="https://github.com/lguibr/tricked">
+    <img src="https://raw.githubusercontent.com/lguibr/tricked/main/frontend/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="tricked Logo" />
   </a>
 </td>
 <td width="80%" align="left" valign="top">
-  <a href="https://github.com/lguibr/codeconcat/actions/workflows/ci_cd.yml"><img src="https://github.com/lguibr/codeconcat/actions/workflows/ci_cd.yml/badge.svg" alt="CI/CD" /></a> <a href="https://pypi.org/project/codeconcat/"><img src="https://img.shields.io/pypi/v/codeconcat.svg" alt="PyPI" /></a> <a href="https://pypi.org/project/codeconcat/"><img src="https://img.shields.io/pypi/pyversions/codeconcat.svg" alt="Python Version" /></a> <a href="https://github.com/lguibr/codeconcat/blob/main/LICENSE"><img src="https://img.shields.io/pypi/l/codeconcat.svg" alt="License" /></a> <a href="https://github.com/astral-sh/ruff"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json" alt="Code style: ruff" /></a> <a href="https://github.com/lguibr/CodeConcat"><img src="https://img.shields.io/github/stars/lguibr/CodeConcat?style=social" alt="Stars" /></a>
+  <a href="https://github.com/lguibr/tricked"><img src="https://img.shields.io/github/stars/lguibr/tricked?style=social" alt="Stars" /></a>
   <p align="center">
-    <strong>CodeConcat</strong>
+    <strong>tricked</strong>
     <br />
-    Prepare your code for AI. Concatenates your project into a clean, markdown-formatted file with file trees and granular filtering options.
+    High-throughput, sub-millisecond Reinforcement Learning engine. Built in Rust and CUDA with a Python/LangGraph orchestration layer. Implements Gumbel MuZero MCTS and lock-free concurrency, entirely bypassing the Python GIL to achieve massive evaluation scale without GPU thread divergence.
   </p>
-  <p align="center"><code>automation</code> <code>cli</code> <code>concatenation</code> <code>context-window</code> <code>developer-tools</code> <code>llm</code> <code>productivity</code> <code>prompt-engineering</code> <code>python</code> <code>Python</code></p>
+  <p align="center"><code>actor-model</code> <code>concurrency</code> <code>cuda</code> <code>gumbel-muzero</code> <code>libtorch</code> <code>lock-free</code> <code>machine-learning</code> <code>mcts</code> <code>mlops</code> <code>muzero</code> <code>optuna</code> <code>pytorch</code></p>
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
@@ -107,6 +122,21 @@
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/daicer-ui">
+    <img src="https://raw.githubusercontent.com/lguibr/daicer-ui/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="daicer-ui Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://github.com/lguibr/daice/actions/workflows/frontend.yml"><img src="https://img.shields.io/github/actions/workflow/status/lguibr/daice/frontend.yml?label=Frontend_Build&logo=github&style=for-the-badge" alt="Frontend CI" /></a> <a href="https://codecov.io/gh/lguibr/daice"><img src="https://codecov.io/gh/lguibr/daice/graph/badge.svg?token=CODECOV_TOKEN&flag=frontend" alt="codecov" /></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/Front-React_19-61DAFB?logo=react&style=for-the-badge&logoColor=black" alt="React" /></a> <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Render-Three.js-000000?logo=three.js&style=for-the-badge" alt="ThreeJS" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&style=for-the-badge" alt="Vite" /></a> <a href="https://github.com/lguibr/daicer-ui"><img src="https://img.shields.io/github/stars/lguibr/daicer-ui?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/daicer-ui"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/daicer-ui"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <p align="center">
+    <strong>daicer-ui</strong>
+    <br />
+    Daicer UI - The 2D cinematic client, state management, and real-time rendering.
+  </p>
+  <p align="center"><code>frontend</code> <code>game-client</code> <code>graphql</code> <code>react</code> <code>rpg</code> <code>socket-io</code> <code>threejs</code> <code>typescript</code> <code>vite</code> <code>webgl</code> <code>zustand</code> <code>React</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
   <a href="https://github.com/lguibr/maireadme">
     <img src="https://raw.githubusercontent.com/lguibr/maireadme/main/src/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="maireadme Logo" />
   </a>
@@ -119,6 +149,36 @@
     The Ultimate GitHub Profile README Generator. An intelligent CLI tool that analyzes your repositories, detects tech stacks, categorizes projects, and renders a high-fidelity Markdown dashboard with Shields.io badges.<br/><br/><strong>Integrates with:</strong> <a href="https://github.com/lguibr/cocov">cocov</a>
   </p>
   <p align="center"><code>automation</code> <code>cli</code> <code>developer-tools</code> <code>github-profile</code> <code>introspection</code> <code>personal-branding</code> <code>readme-generator</code> <code>shieldsio</code> <code>typescript</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/n0ne-client">
+    <img src="https://raw.githubusercontent.com/lguibr/n0ne-client/main/public/nonelogo.png" height="80" style="max-width: 160px; padding: 10px;" alt="n0ne-client Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://github.com/lguibr/n0ne-client/actions"><img src="https://github.com/lguibr/n0ne-client/actions/workflows/ci.yml/badge.svg" alt="Frontend Lint" /></a> <a href="https://github.com/lguibr/n0ne-client/actions"><img src="https://github.com/lguibr/n0ne-client/actions/workflows/ci.yml/badge.svg" alt="Frontend Test" /></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a> <a href="https://github.com/lguibr/n0ne-client"><img src="https://img.shields.io/github/stars/lguibr/n0ne-client?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/n0ne-client"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/n0ne-client"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <p align="center">
+    <strong>n0ne-client</strong>
+    <br />
+    The reactive visual interface for the n0ne workflow engine. A high-performance, zero-config graph editor built with React Flow, Apollo GraphQL, and TypeScript. "n0ne of the complexity."<br/><br/><strong>Integrates with:</strong> <a href="https://github.com/lguibr/cocov">cocov</a>
+  </p>
+  <p align="center"><code>apollo-client</code> <code>chakra-ui</code> <code>low-code</code> <code>n8n-alternative</code> <code>react</code> <code>react-fl</code> <code>typ</code> <code>vite</code> <code>workflow-automation</code> <code>zustand</code> <code>React</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/daicer">
+    <img src="https://raw.githubusercontent.com/lguibr/daicer/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="daicer Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://github.com/lguibr/daice/actions/workflows/backend.yml"><img src="https://img.shields.io/github/actions/workflow/status/lguibr/daice/backend.yml?label=Backend_Build&logo=github&style=for-the-badge" alt="Backend CI" /></a> <a href="https://codecov.io/gh/lguibr/daice"><img src="https://codecov.io/gh/lguibr/daice/graph/badge.svg?token=CODECOV_TOKEN&flag=backend" alt="codecov" /></a> <a href="https://strapi.io/"><img src="https://img.shields.io/badge/Back-Strapi_5-4945FF?logo=strapi&style=for-the-badge" alt="Strapi" /></a> <a href="#"><img src="https://img.shields.io/badge/Code-100%25_TS-3178C6?logo=typescript&style=for-the-badge" alt="TypeScript" /></a> <a href="https://github.com/lguibr/daicer"><img src="https://img.shields.io/github/stars/lguibr/daicer?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/daicer/actions"><img src="https://github.com/lguibr/daicer/actions/workflows/ci.yml/badge.svg" alt="CI" /></a> <a href="https://github.com/lguibr/daicer"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/daicer"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <p align="center">
+    <strong>daicer</strong>
+    <br />
+    Multiplayer tabletop RPG powered by an AI Dungeon Master. Daicer fuses deterministic dice mechanics, LangGraph orchestration, and a modern React client to deliver cooperative storytelling that stays faithful to D&D 5e.<br/><br/><strong>Integrates with:</strong> <a href="https://github.com/lguibr/cocov">cocov</a>
+  </p>
+  <p align="center"><code>ai-dungeon-master</code> <code>backend</code> <code>game-server</code> <code>generative-ai</code> <code>graphql</code> <code>langgraph</code> <code>llm</code> <code>rag</code> <code>rpg</code> <code>strapi</code> <code>tabletop-rpg</code> <code>typescript</code></p>
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
@@ -182,63 +242,48 @@
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
-  <a href="https://github.com/lguibr/daicer-ui">
-    <img src="https://raw.githubusercontent.com/lguibr/daicer-ui/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="daicer-ui Logo" />
+  <a href="https://github.com/lguibr/grasshoppersim">
+    <img src="https://raw.githubusercontent.com/lguibr/grasshoppersim/main/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="grasshoppersim Logo" />
   </a>
 </td>
 <td width="80%" align="left" valign="top">
-  <a href="https://github.com/lguibr/daice/actions/workflows/frontend.yml"><img src="https://img.shields.io/github/actions/workflow/status/lguibr/daice/frontend.yml?label=Frontend_Build&logo=github&style=for-the-badge" alt="Frontend CI" /></a> <a href="https://codecov.io/gh/lguibr/daice"><img src="https://codecov.io/gh/lguibr/daice/graph/badge.svg?token=CODECOV_TOKEN&flag=frontend" alt="codecov" /></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/Front-React_19-61DAFB?logo=react&style=for-the-badge&logoColor=black" alt="React" /></a> <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Render-Three.js-000000?logo=three.js&style=for-the-badge" alt="ThreeJS" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&style=for-the-badge" alt="Vite" /></a> <a href="https://github.com/lguibr/daicer-ui"><img src="https://img.shields.io/github/stars/lguibr/daicer-ui?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/daicer-ui"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/daicer-ui"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React_Three_Fiber-black?style=flat-square&logo=react&logoColor=61DAFB" alt="React Three Fiber" /></a> <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a> <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a> <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /></a> <a href="https://github.com/lguibr/grasshoppersim"><img src="https://img.shields.io/github/stars/lguibr/grasshoppersim?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/grasshoppersim"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <p align="center">
-    <strong>daicer-ui</strong>
+    <strong>grasshoppersim</strong>
     <br />
-    Daicer UI - The 3D cinematic client, state management, and real-time rendering.
+    A WebGL-powered evolutionary sandbox and game theory visualizer where artificial grasshoppers inherit traits, compete for resources, and evolve emergent strategies in real-time.
   </p>
-  <p align="center"><code>3d-rendering</code> <code>frontend</code> <code>game-client</code> <code>graphql</code> <code>react</code> <code>react-three-fiber</code> <code>rpg</code> <code>socket-io</code> <code>threejs</code> <code>typescript</code> <code>vite</code> <code>webgl</code></p>
+  <p align="center"><code>agent-based-modeling</code> <code>artificial-life</code> <code>data-visualization</code> <code>emergency</code> <code>evolutionary-algorithms</code> <code>game-theory</code> <code>hawk-dove</code> <code>natural-selection</code> <code>react</code> <code>react-three-fiber</code> <code>simulation</code> <code>threejs</code></p>
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
-  <a href="https://github.com/lguibr/daicer">
-    <img src="https://raw.githubusercontent.com/lguibr/daicer/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="daicer Logo" />
+  <a href="https://github.com/lguibr/maincurriculum">
+    <img src="https://raw.githubusercontent.com/lguibr/maincurriculum/main/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="maincurriculum Logo" />
   </a>
 </td>
 <td width="80%" align="left" valign="top">
-  <a href="https://github.com/lguibr/daice/actions/workflows/backend.yml"><img src="https://img.shields.io/github/actions/workflow/status/lguibr/daice/backend.yml?label=Backend_Build&logo=github&style=for-the-badge" alt="Backend CI" /></a> <a href="https://codecov.io/gh/lguibr/daice"><img src="https://codecov.io/gh/lguibr/daice/graph/badge.svg?token=CODECOV_TOKEN&flag=backend" alt="codecov" /></a> <a href="https://strapi.io/"><img src="https://img.shields.io/badge/Back-Strapi_5-4945FF?logo=strapi&style=for-the-badge" alt="Strapi" /></a> <a href="#"><img src="https://img.shields.io/badge/Code-100%25_TS-3178C6?logo=typescript&style=for-the-badge" alt="TypeScript" /></a> <a href="https://github.com/lguibr/daicer"><img src="https://img.shields.io/github/stars/lguibr/daicer?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/daicer/actions"><img src="https://github.com/lguibr/daicer/actions/workflows/ci.yml/badge.svg" alt="CI" /></a> <a href="https://github.com/lguibr/daicer"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/daicer"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://github.com/lguibr/maincurriculum"><img src="https://img.shields.io/github/stars/lguibr/maincurriculum?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/maincurriculum"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/maincurriculum"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <p align="center">
-    <strong>daicer</strong>
+    <strong>maincurriculum</strong>
     <br />
-    Multiplayer tabletop RPG powered by an AI Dungeon Master. Daicer fuses deterministic dice mechanics, LangGraph orchestration, and a modern React client to deliver cooperative storytelling that stays faithful to D&D 5e.<br/><br/><strong>Integrates with:</strong> <a href="https://github.com/lguibr/cocov">cocov</a>
+    MainCurriculum is an elite, intelligent, and autonomous AI-driven curriculum and portfolio generator. It acts as an orchestrator, securely ingesting your GitHub codebase and raw text CV to construct a highly localized semantic Knowledge Graph of your career.
   </p>
-  <p align="center"><code>ai-dungeon-master</code> <code>backend</code> <code>game-server</code> <code>generative-ai</code> <code>graphql</code> <code>langgraph</code> <code>llm</code> <code>rag</code> <code>rpg</code> <code>strapi</code> <code>tabletop-rpg</code> <code>typescript</code></p>
+  <p align="center"><code>ai-agents</code> <code>autonomous-agents</code> <code>gemini-api</code> <code>gemini-flash</code> <code>gemini-pro</code> <code>indexeddb</code> <code>knowledge-graph</code> <code>llm-orchestrator</code> <code>portfolio-generator</code> <code>react</code> <code>semantic-search</code> <code>vite</code></p>
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
-  <a href="https://github.com/lguibr/tricked">
-    <img src="https://raw.githubusercontent.com/lguibr/tricked/main/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="tricked Logo" />
+  <a href="https://github.com/lguibr/salvoprontuario">
+    <img src="https://raw.githubusercontent.com/lguibr/salvoprontuario/main/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="salvoprontuario Logo" />
   </a>
 </td>
 <td width="80%" align="left" valign="top">
-  <a href="https://github.com/lguibr/tricked"><img src="https://img.shields.io/github/stars/lguibr/tricked?style=social" alt="Stars" /></a>
+  <a href="https://github.com/lguibr/salvoprontuario"><img src="https://img.shields.io/github/stars/lguibr/salvoprontuario?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/salvoprontuario"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <p align="center">
-    <strong>tricked</strong>
+    <strong>salvoprontuario</strong>
     <br />
-    Tricked is a multi-language ecosystem optimized entirely to prevent standard abstraction delays. We translate raw bitwise board matrices from Python natively into a Rust (PyO3) Verification Engine, achieving zero-cost tensor bounds for ultra-concurrent MCTS expansions.
+    **SalvoProntuário** is a "First Class Mobile" web application, custom-designed for psychologists, psychiatrists, and clinical therapists. It accelerates the process and structuring of daily patient evolutions (clinical notes) through the **Google Gemini** artificial intelligence.
   </p>
-  <p align="center"><code>ai</code> <code>cuda</code> <code>game-ai</code> <code>machine-learning</code> <code>mcts</code> <code>monte-carlo-tree-search</code> <code>muzero</code> <code>pyo3</code> <code>python</code> <code>pytorch</code> <code>reinforcement-learning</code> <code>rust</code></p>
-</td>
-</tr><tr style="border-bottom: none; ">
-<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
-  <a href="https://github.com/lguibr/pixel-forge">
-    <img src="https://raw.githubusercontent.com/lguibr/pixel-forge/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="pixel-forge Logo" />
-  </a>
-</td>
-<td width="80%" align="left" valign="top">
-  <a href="https://github.com/lguibr/pixel-forge"><img src="https://img.shields.io/github/stars/lguibr/pixel-forge?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/pixel-forge"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <p align="center">
-    <strong>pixel-forge</strong>
-    <br />
-    A highly intelligent AI-driven sprite generation pipeline, bootstrapping entity manifestations for the Daicer Project (an AI Dungeon Master).
-  </p>
-  <p align="center"><code>ai</code> <code>game-assets</code> <code>gemini-api</code> <code>generative-ai</code> <code>generative-art</code> <code>pixel-art</code> <code>procedural-art</code> <code>react</code> <code>sprite-generator</code> <code>tailwindcss</code> <code>typescript</code> <code>vite</code></p>
+  <p align="center"><code>React</code> <code>Express</code></p>
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
@@ -257,18 +302,48 @@
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
-  <a href="https://github.com/lguibr/n0ne-client">
-    <img src="https://raw.githubusercontent.com/lguibr/n0ne-client/main/public/nonelogo.png" height="80" style="max-width: 160px; padding: 10px;" alt="n0ne-client Logo" />
+  <a href="https://github.com/lguibr/showai">
+    <img src="https://raw.githubusercontent.com/lguibr/showai/main/assets/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="showai Logo" />
   </a>
 </td>
 <td width="80%" align="left" valign="top">
-  <a href="https://github.com/lguibr/n0ne-client/actions"><img src="https://github.com/lguibr/n0ne-client/actions/workflows/ci.yml/badge.svg" alt="Frontend Lint" /></a> <a href="https://github.com/lguibr/n0ne-client/actions"><img src="https://github.com/lguibr/n0ne-client/actions/workflows/ci.yml/badge.svg" alt="Frontend Test" /></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a> <a href="https://github.com/lguibr/n0ne-client"><img src="https://img.shields.io/github/stars/lguibr/n0ne-client?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/n0ne-client"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" /></a> <a href="https://github.com/lguibr/n0ne-client"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://github.com/lguibr/showai"><img src="https://img.shields.io/github/stars/lguibr/showai?style=social" alt="Stars" /></a>
   <p align="center">
-    <strong>n0ne-client</strong>
+    <strong>showai</strong>
     <br />
-    The reactive visual interface for the n0ne workflow engine. A high-performance, zero-config graph editor built with React Flow, Apollo GraphQL, and TypeScript. "n0ne of the complexity."<br/><br/><strong>Integrates with:</strong> <a href="https://github.com/lguibr/cocov">cocov</a>
+    > **A blazing fast, programmatic browser voiceover & timeline generator.**
   </p>
-  <p align="center"><code>apollo-client</code> <code>chakra-ui</code> <code>low-code</code> <code>n8n-alternative</code> <code>react</code> <code>react-fl</code> <code>typ</code> <code>vite</code> <code>workflow-automation</code> <code>zustand</code> <code>React</code></p>
+  <p align="center"><code>Python</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/trilife">
+    <img src="https://raw.githubusercontent.com/lguibr/trilife/main/public/logo_tri_life.png" height="80" style="max-width: 160px; padding: 10px;" alt="trilife Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://github.com/lguibr/trilife"><img src="https://img.shields.io/github/stars/lguibr/trilife?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/trilife"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <p align="center">
+    <strong>trilife</strong>
+    <br />
+    Trilife is a cellular automaton that applies the classic rules of Conway's Game of Life to a triangular grid. By manipulating coordinates, triangular grid cells map together to form rhombuses, which visually combine to represent 3D cubes in an isometric perspective.
+  </p>
+  <p align="center"><code>React</code></p>
+</td>
+</tr><tr style="border-bottom: none; ">
+<td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
+  <a href="https://github.com/lguibr/pixel-forge">
+    <img src="https://raw.githubusercontent.com/lguibr/pixel-forge/main/public/logo.png" height="80" style="max-width: 160px; padding: 10px;" alt="pixel-forge Logo" />
+  </a>
+</td>
+<td width="80%" align="left" valign="top">
+  <a href="https://github.com/lguibr/pixel-forge"><img src="https://img.shields.io/github/stars/lguibr/pixel-forge?style=social" alt="Stars" /></a> <a href="https://github.com/lguibr/pixel-forge"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <p align="center">
+    <strong>pixel-forge</strong>
+    <br />
+    A highly intelligent AI-driven sprite generation pipeline, bootstrapping entity manifestations for the Daicer Project (an AI Dungeon Master).
+  </p>
+  <p align="center"><code>ai</code> <code>game-assets</code> <code>gemini-api</code> <code>generative-ai</code> <code>generative-art</code> <code>pixel-art</code> <code>procedural-art</code> <code>react</code> <code>sprite-generator</code> <code>tailwindcss</code> <code>typescript</code> <code>vite</code></p>
 </td>
 </tr><tr style="border-bottom: none; ">
 <td width="20%" align="center" valign="middle" style="border-right: 1px solid #eee; ">
